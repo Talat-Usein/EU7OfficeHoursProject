@@ -1,0 +1,14 @@
+Today:
+    -OOP:
+        -Encapsulation
+        -Inheritance
+        -Abstraction
+        -Polymorphism
+
+ Class - blueprint, template, general description of objects;
+
+       - variables/ properties / features;
+       - methods / actions / behaviour;
+
+ object - concrete, real world entity;
+
